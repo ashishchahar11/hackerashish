@@ -562,7 +562,7 @@ tr{
   height:55px;
   font-size:25px;
 }
-@media only screen and (min-width:425px) {
+@media only screen and (max-width:425px) {
   body{
     background-image:linear-gradient(to top,red,white,red);
    }
